@@ -1,0 +1,22 @@
+h1, p {
+  font-family: Lato;
+}
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: rgb(233, 123, 20);
+  border: none;
+  color: white;
+  padding: 6px 6px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+img{
+  width: 160px;
+  height: 160px;
+}
+table,tr,td {
+  background-color: rgb(42, 189, 169);
+}
+.fbody {
+  background-color: rgb(42, 189, 169);
+}
